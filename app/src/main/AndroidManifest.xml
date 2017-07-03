@@ -16,11 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"
-          />
+        <activity android:name=".MainActivity" />
         <activity android:name=".New_Contact" />
-        <activity android:name=".EditContact"></activity>
-        <activity android:name=".ViewContact"/>
+        <activity android:name=".EditContact" />
+        <activity android:name=".ViewContact" />
     </application>
 
 </manifest>
